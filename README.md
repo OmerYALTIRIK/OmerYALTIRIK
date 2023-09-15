@@ -65,7 +65,6 @@
 
 <br>
 <br>
-###
 
 <div align="left">
   <a href="https://linkedin.com/in/omeryaltirik" target="_blank">
