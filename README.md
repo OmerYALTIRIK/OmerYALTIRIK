@@ -96,6 +96,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OmerYALTIRIK/OmerYALTIRIK/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/OmerYALTIRIK/OmerYALTIRIK/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
